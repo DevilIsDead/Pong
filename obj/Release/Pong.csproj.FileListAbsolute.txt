@@ -1,0 +1,14 @@
+C:\Users\Igor\source\repos\Pong\bin\Release\Pong.exe.config
+C:\Users\Igor\source\repos\Pong\bin\Release\Pong.exe
+C:\Users\Igor\source\repos\Pong\bin\Release\Pong.pdb
+C:\Users\Igor\source\repos\Pong\obj\Release\Pong.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\Pong\obj\Release\Pong.Form1.resources
+C:\Users\Igor\source\repos\Pong\obj\Release\Pong.Properties.Resources.resources
+C:\Users\Igor\source\repos\Pong\obj\Release\Pong.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\Pong\obj\Release\Pong.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Pong\obj\Release\Pong.exe
+C:\Users\Igor\source\repos\Pong\obj\Release\Pong.pdb
+C:\Users\Igor\source\repos\Pong\bin\Release\Pong.exe.manifest
+C:\Users\Igor\source\repos\Pong\bin\Release\Pong.application
+C:\Users\Igor\source\repos\Pong\obj\Release\Pong.exe.manifest
+C:\Users\Igor\source\repos\Pong\obj\Release\Pong.application
